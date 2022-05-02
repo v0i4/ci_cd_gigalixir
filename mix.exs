@@ -51,7 +51,8 @@ defmodule CiCdGigalixir.MixProject do
       {:plug_cowboy, "~> 2.5"},
       {:dialyxir, "~> 1.1"},
       {:credo, "~> 1.6"},
-      {:sobelow, "~> 0.11.1"}
+      {:sobelow, "~> 0.11.1"},
+      {:coveralls, "~> 2.2"}
     ]
   end
 
