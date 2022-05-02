@@ -1,4 +1,5 @@
 defmodule CiCdGigalixirWeb.CategoryLive.FormComponent do
+  @moduledoc false
   use CiCdGigalixirWeb, :live_component
 
   alias CiCdGigalixir.Categories
