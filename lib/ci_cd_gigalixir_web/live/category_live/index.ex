@@ -1,7 +1,5 @@
-@moduledoc """
-documentations
-"""
 defmodule CiCdGigalixirWeb.CategoryLive.Index do
+  @moduledoc false
   use CiCdGigalixirWeb, :live_view
 
   alias CiCdGigalixir.Categories
