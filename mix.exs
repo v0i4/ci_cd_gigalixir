@@ -27,8 +27,7 @@ defmodule CiCdGigalixir.MixProject do
   def application do
     [
       mod: {CiCdGigalixir.Application, []},
-      extra_applications: [:logger, :runtime_tools],
-
+      extra_applications: [:logger, :runtime_tools]
     ]
   end
 
