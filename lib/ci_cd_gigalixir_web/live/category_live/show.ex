@@ -1,3 +1,6 @@
+@moduledoc """
+documentations
+"""
 defmodule CiCdGigalixirWeb.CategoryLive.Show do
   use CiCdGigalixirWeb, :live_view
 

@@ -1,3 +1,7 @@
+@moduledoc """
+documentations
+"""
+
 defmodule CiCdGigalixirWeb.Telemetry do
   use Supervisor
   import Telemetry.Metrics

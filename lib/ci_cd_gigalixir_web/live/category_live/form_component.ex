@@ -1,3 +1,7 @@
+@moduledoc """
+documentations
+"""
+
 defmodule CiCdGigalixirWeb.CategoryLive.FormComponent do
   use CiCdGigalixirWeb, :live_component
 

@@ -1,3 +1,6 @@
+@moduledoc """
+documentations
+"""
 defmodule CiCdGigalixirWeb.CategoryLive.Index do
   use CiCdGigalixirWeb, :live_view
 
