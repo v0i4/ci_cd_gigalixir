@@ -1,4 +1,4 @@
-name: CD_pipeline
+name: CD-pipeline
 'on':
   push:
     branches:
